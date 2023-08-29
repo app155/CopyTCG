@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5e8cc8d6528fe47977b640b6693463, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\uB8E8\uB124\uCF54"
+    attack: 2
+    health: 5
+    sprite: {fileID: 21300000, guid: 76ae3b5998db2ec41982e9393fca58ac, type: 3}
+    percent: 12
+  - name: "\uB204\uBAA8"
+    attack: 1
+    health: 7
+    sprite: {fileID: 21300000, guid: 83d7606686457934bad0b341b281004c, type: 3}
+    percent: 10
+  - name: "\uB514\uB2C8\uC5D0"
+    attack: 4
+    health: 4
+    sprite: {fileID: 21300000, guid: e63f4288e2137ab4d8c76e0f87f8634c, type: 3}
+    percent: 10
+  - name: "\uB77C\uB2C8\uC5D8"
+    attack: 1
+    health: 4
+    sprite: {fileID: 21300000, guid: 8c0b0af4c9f01ed4a96a039396d62ef4, type: 3}
+    percent: 15
+  - name: "\uB8E8\uB370\uB098"
+    attack: 1
+    health: 3
+    sprite: {fileID: 21300000, guid: 091971b7e7dc2c346a9fd2ee005599a1, type: 3}
+    percent: 15
+  - name: "\uB9AC\uCF54"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: fe086d994142b954eba22c8ee0da6880, type: 3}
+    percent: 8
+  - name: "\uCCB4\uB9AC"
+    attack: 4
+    health: 5
+    sprite: {fileID: 21300000, guid: 9442d74685b5f5048a3170ddc7234a9d, type: 3}
+    percent: 10
+  - name: "\uCF08\uD2B8"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: fb98f8e58f331154f995fdc798be4b69, type: 3}
+    percent: 8
+  - name: "\uD504\uB9AC\uB098"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: ffbcf286ff8aa634f8d109a7ed5d3082, type: 3}
+    percent: 8
+  - name: "\uD0C0\uC774\uAC70"
+    attack: 4
+    health: 8
+    sprite: {fileID: 21300000, guid: 79d31fe377f4dbb49bcc6dfd32b808c5, type: 3}
+    percent: 4
